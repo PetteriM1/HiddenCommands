@@ -1,0 +1,4 @@
+ignoreOPs: true
+hiddenCommands:
+  - "hiddencommand1"
+  - "hiddencommand2"
